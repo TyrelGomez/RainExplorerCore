@@ -10,8 +10,8 @@ It's also missing many features the original RainExplorer has.
 The RainExplorer Core is not meant for casual users, so if you are one, please get out of here until you know what
 you are doing.
 
-### Will the main RainExplorer keep it's MIT license?
-Yes. RainExplorer will forever be MIT license managed. But it's recommended to use this instead because the actual browser
+### Will the main RainExplorer keep it's GNU license?
+Yes. RainExplorer will forever be GNU license managed. But it's recommended to use this instead because the actual browser
 is very hard to extend, as I did not comment every line. So you will have to hope to know what you are doing.
 
 ### License
